@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BilelMagherby
 - 👀 I’m interested in developping web
-- 🌱 I’m currently learning Node Js
+- 🌱 I’m currently learning Modern language of developement
 - 📫 How to reach me inst:"bilel_magh" 
 
 
